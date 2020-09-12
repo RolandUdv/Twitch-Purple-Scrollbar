@@ -12,3 +12,7 @@ The theme applies only to [twitch.tv](https://www.twitch.tv/).
 
 ## Installation
 Install the [Stylus extension](https://add0n.com/stylus.html)
+
+## Preview
+### Screenshot
+![](https://userstyles.org/style_screenshots/189298_after.jpeg?r=1599921054)
