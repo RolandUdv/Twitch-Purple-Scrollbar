@@ -1,0 +1,48 @@
+/*	@name				Twitch Purple Scrollbar 
+*	@version			v1.0
+*	@description		Makes your scrollbar purple. That's it! 
+*	@author				Techusiast - RolandUdv
+*   @website            http://techusiast.com/
+*   @stylish            https://userstyles.org/styles/189298/twitch-purple-scrollbar
+*	@github 			https://github.com/RolandUdv/Twitch-Purple-Scrollbar
+*	@license			CC-BY
+*/
+
+@-moz-document domain("twitch.tv") {
+    /*
+.tw-image {
+    border-radius: 20px;
+}
+*/
+
+    ::-webkit-scrollbar {
+        width: 5px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: #0f0f10;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: #9048ff;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #b98bff;
+    }
+
+
+    /* Scrollbar background color */
+    .simplebar-track vertical,
+    .simplebar-scrollbar visible {
+        /*background: #0f0f10; */
+        /*background: #19191d; */
+        background: #1f2024;
+    }
+
+    /* Scrollbar thumb color */
+    .tw-root--theme-dark .scrollable-area .simplebar-track .simplebar-scrollbar {
+        background: #9048ff;
+    }
+
+}
