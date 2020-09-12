@@ -1,6 +1,6 @@
 # Twitch Purple Scrollbar
 
-[![Install directly with Stylus](https://userstyles.org/styles/179958/google-podcasts-dark-theme)](https://userstyles.org/styles/179958/google-podcasts-dark-theme)
+[![Install directly with Stylus](https://userstyles.org/styles/189298/twitch-purple-scrollbar)](https://userstyles.org/styles/189298/twitch-purple-scrollbar)
 
 Twitch Purple Scroll Bar.
 
